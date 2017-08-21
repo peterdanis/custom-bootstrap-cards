@@ -14,3 +14,16 @@ You can use these custom cards together with standard Bootstrap 4 cards or use s
 
 <img src="http://res.cloudinary.com/d3/image/upload/c_scale,h_450,q_auto:best/color-cards_lorvwg.jpg" alt="Colored cards">
 
+There is also a wide variant, without the upper picture cut and with centered avatar.
+
+<img src="http://res.cloudinary.com/d3/image/upload/q_auto:good/card3_pma2cd.jpg" alt="Card">
+
+#### Download
+
+Small card:
+- [HTML](https://raw.githubusercontent.com/peterdanis/custom-bootstrap-cards/master/small-card.html)
+- [CSS](https://raw.githubusercontent.com/peterdanis/custom-bootstrap-cards/master/small-card.css)
+
+Wide card: 
+- [HTML](https://raw.githubusercontent.com/peterdanis/custom-bootstrap-cards/master/wide-card.html)
+- [CSS](https://raw.githubusercontent.com/peterdanis/custom-bootstrap-cards/master/wide-card.css)
